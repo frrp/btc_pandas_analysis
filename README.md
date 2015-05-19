@@ -1,2 +1,2 @@
-btc_pandas_analysis
+Bitcoin trades analysis
 ===================
